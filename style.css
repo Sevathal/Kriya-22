@@ -1,0 +1,50 @@
+body {
+    background-color: black;  
+}
+
+.container {
+    margin-left: 0cm;
+    margin-right: 0cm;
+    width: 1510px;
+}
+
+header{
+    background-color: rgb(34, 30, 30);
+    text-align: center;
+    height: 200px;
+}
+h1 {
+    font-size: 30px;
+    padding-top: 3cm;
+    color: white;
+    font-weight:900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav {
+    background-color:black;
+    height: 40px;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 8px;
+}
+
+main {
+    background-color: rgb(255, 196, 0);
+    text-align: center;
+    padding-top: 20px;
+    color: black;
+    height: 400px;
+}
+
+footer {
+    background-color: rgb(255, 187, 0);
+    height: 200px;
+}
+
+nav a{
+    text-decoration: none;
+    padding-left: 50px;
+    text-align: center;
+    color: rgb(187, 235, 160);
+    font-size: 20px;
+}
